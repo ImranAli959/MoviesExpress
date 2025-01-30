@@ -1,0 +1,15 @@
+1 login page end point to authenticate user
+-> user should enter user name and password and it should call the API 
+to get the credentials checked from the db.
+-> after authentication is should route to home page.
+
+2 sign up page endpoint to create the user in the db
+
+3 forgot password endpoint to reset the user password in the db.
+
+4 for home page we should have the movies stored in the db and it should 
+fetch the movie names stored and call the api and display the data accordingly.
+
+5 Ticket api should take the selected movie, timing and seat and then store to 
+db and generate the ticket.
+
